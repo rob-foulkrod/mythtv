@@ -20,13 +20,13 @@
       * [Developers](https://web.libera.chat/?nick=Guest?#mythtv): ircs://irc.libera.chat:6697/mythtv  (Libera.​Chat, #mythtv)
 
 * License
-   * MythTV is licensed under the GPLv2, see LICENSE for details
-   * This applies to all code unless otherwise stated in the source files or to code in an external/ directory
+   * MythTV is licensed under the GPLv2, see LICENSE for details!!!
+   * This applies to all code unless otherwise stated in the source files or to code in an external/ directory!!!!
 
 * Contributions
    * If you have patches for a new feature or a bug fix, please consider forking the project on ![Github](https://github.com/MythTV/mythtv) and creating a pull request.
-   * Please note: If you create a pull request, please take care to follow the Pull Request checklist.
-   * We only support code that is from the canonical MythTV repository at https://github.com/MythTV. For other forks of MythTV, please send bug reports to the owners of the fork where the code was committed.
+   * Please note: If you create a pull request, please take care to follow the Pull Request checklist!!!!
+   * We only support code that is from the canonical MythTV repository at https://github.com/MythTV. For other forks of MythTV, please send bug reports to the owners of the fork where the code was committed!!!!
    * [Open a new issue](https://github.com/MythTV/mythtv/issues/new/choose)
    * [Create a pull request](https://github.com/MythTV/mythtv/compare)
 
